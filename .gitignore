@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# All buld directories
+*build*
+*idea*
